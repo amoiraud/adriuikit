@@ -1,0 +1,22 @@
+@import "variables.scss";
+
+/***********
+ * Boutons *
+ ***********/
+
+.contained {
+  color: white !important;
+  background-color: $color-primary !important;
+  border-radius: 4px !important;
+  font: normal normal 600 13px/16px Montserrat;
+}
+
+.contained:disabled {
+  background-color: grey !important;
+  color: black !important;
+}
+
+.contained:hover {
+  background-color: $color-primary !important;
+  color: white !important;
+}
