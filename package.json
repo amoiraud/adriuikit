@@ -1,6 +1,7 @@
 {
   "name": "@amoiraud/adriuikit",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Testing npm package",
-  "repository": "amoiraud/adriuikit"
+  "repository": "amoiraud/adriuikit",
+  "main": "index.js"
 }
