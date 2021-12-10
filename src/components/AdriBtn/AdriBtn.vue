@@ -18,5 +18,5 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "../styles/ui-kit.scss";
+  @import "../../styles/ui-kit.scss";
 </style>
